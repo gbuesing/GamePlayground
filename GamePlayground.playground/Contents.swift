@@ -1,3 +1,4 @@
+// Adapted from https://www.raywenderlich.com/145318/spritekit-swift-3-tutorial-beginners to work in Xcode Playground
 import SpriteKit
 import PlaygroundSupport
 
